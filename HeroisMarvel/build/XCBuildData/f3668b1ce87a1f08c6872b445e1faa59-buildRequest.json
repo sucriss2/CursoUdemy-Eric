@@ -1,0 +1,55 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98ba3679b4c4428e6a6d83c5308d3af99b"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e987add8fbbd12553af2fc6f71a250cc7d9"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98d4b1dbac7de947871cf9b20efb5a74f5"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e7316d40954be3e2b663f52f9aaa25d6"
+    }
+  ],
+  "containerPath" : "/Users/suh/Documents/Udemy - Swift - Eric/HeroisMarvel/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/suh/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/suh/Library/Developer/Xcode/DerivedData/Pods-bkoijgelojpmcwgrtkesyrbzvpap/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/suh/Library/Developer/Xcode/DerivedData/Pods-bkoijgelojpmcwgrtkesyrbzvpap/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

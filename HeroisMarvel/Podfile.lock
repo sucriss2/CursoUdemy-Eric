@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.5.0)
+  - Kingfisher (6.3.1)
+  - SwiftHash (2.0.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.5)
+  - Kingfisher (~> 6.0)
+  - SwiftHash (from `https://github.com/onmyway133/SwiftHash`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+
+EXTERNAL SOURCES:
+  SwiftHash:
+    :git: https://github.com/onmyway133/SwiftHash
+
+CHECKOUT OPTIONS:
+  SwiftHash:
+    :commit: cf58096d48a99c1f9b60a4c8a1b5ee1a0553397a
+    :git: https://github.com/onmyway133/SwiftHash
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  Kingfisher: 016c8b653a35add51dd34a3aba36b580041acc74
+  SwiftHash: 6d312abe61c8359bdef8d0093642f3a70b1c17ba
+
+PODFILE CHECKSUM: 352b8891818df41cdc9c8bd74436f7addfcff85c
+
+COCOAPODS: 1.11.3

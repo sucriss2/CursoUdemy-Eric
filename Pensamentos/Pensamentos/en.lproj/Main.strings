@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "30"; ObjectID = "0TW-xr-Ka9"; */
+"0TW-xr-Ka9.text" = "30";
+
+/* Class = "UILabel"; text = "Esquema de cores"; ObjectID = "0gR-Um-WPg"; */
+"0gR-Um-WPg.text" = "Esquema de cores";
+
+/* Class = "UILabel"; text = "Mudar Após 8 segundos"; ObjectID = "97r-wz-Jbr"; */
+"97r-wz-Jbr.text" = "Mudar Após 8 segundos";
+
+/* Class = "UILabel"; text = "Mudar Automaticamente"; ObjectID = "QZg-aW-pm1"; */
+"QZg-aW-pm1.text" = "Mudar Automaticamente";
+
+/* Class = "UILabel"; text = "Pensamento"; ObjectID = "WOM-WX-gUh"; */
+"WOM-WX-gUh.text" = "Pensamento";
+
+/* Class = "UITabBarItem"; title = "Pensamentos"; ObjectID = "X2u-ee-gHD"; */
+"X2u-ee-gHD.title" = "Pensamentos";
+
+/* Class = "UILabel"; text = "Obs.: Para mudar de pensamento basta tocar em qualquer lugar da tela \"Pensamentos\""; ObjectID = "b8R-lM-LQW"; */
+"b8R-lM-LQW.text" = "Obs.: Para mudar de pensamento basta tocar em qualquer lugar da tela \"Pensamentos\"";
+
+/* Class = "UITabBarItem"; title = "Configurações"; ObjectID = "els-n2-7nv"; */
+"els-n2-7nv.title" = "Configurações";
+
+/* Class = "UISegmentedControl"; oF4-em-aoU.segmentTitles[0] = "Claro"; ObjectID = "oF4-em-aoU"; */
+"oF4-em-aoU.segmentTitles[0]" = "Claro";
+
+/* Class = "UISegmentedControl"; oF4-em-aoU.segmentTitles[1] = "Escuro"; ObjectID = "oF4-em-aoU"; */
+"oF4-em-aoU.segmentTitles[1]" = "Escuro";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "oY7-DH-IrW"; */
+"oY7-DH-IrW.text" = "5";
+
+/* Class = "UILabel"; text = "Autor"; ObjectID = "zcC-gr-xHb"; */
+"zcC-gr-xHb.text" = "Autor";

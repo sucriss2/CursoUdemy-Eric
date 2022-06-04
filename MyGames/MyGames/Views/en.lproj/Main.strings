@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Console"; ObjectID = "4Yn-NN-4AZ"; */
+"4Yn-NN-4AZ.text" = "Console";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "A50-rb-U18"; */
+"A50-rb-U18.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "Lista de Jogos"; ObjectID = "KkZ-XS-0sM"; */
+"KkZ-XS-0sM.title" = "Lista de Jogos";
+
+/* Class = "UILabel"; text = "Nome"; ObjectID = "OEA-gX-V0I"; */
+"OEA-gX-V0I.text" = "Nome";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "afu-Om-LY7"; */
+"afu-Om-LY7.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "Lista de Plataformas"; ObjectID = "eXA-Is-DNH"; */
+"eXA-Is-DNH.title" = "Lista de Plataformas";
